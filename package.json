@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "Aayushdev18",
   "scripts": {
     "dev": "concurrently \"vite\" \"node server/index.js\"",
     "db:generate": "prisma generate",
